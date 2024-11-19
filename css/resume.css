@@ -1,0 +1,72 @@
+body {
+    margin: 20px 80px 80px 80px;
+    font-family: "Helvetica Neue", Roboto, sans-serif;
+    background: #f8f8f8;
+    line-height: 130%;
+}
+ul {
+    list-style-type: square;
+}
+a {
+    text-decoration: none; 
+    color: #a40;
+}
+table {
+    margin-top: 30px;
+    background-color: #e8e8e8;
+}
+tr.header td {
+    padding-left: 0;
+}
+section {
+    margin-top: 5px;
+    font-size: 130%;
+    font-weight: bold;
+}
+.header {
+    background: #f8f8f8;
+}
+.p-name {
+    font-size: 200%;
+    font-weight: bold;
+}
+.p-role {
+    font-size: 125%;
+    font-weight: normal;
+}
+.job, .course {
+    padding-left: 10px;
+    border-left: 1px solid #040;
+}
+.course {
+    padding-left: 10px;
+    border-left: 1px solid #040;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.employer {
+    /* font-weight: bold; */
+    /* font-size: 120%; */
+}
+.title {
+    font-weight: 500;
+    font-size: 110%;
+}
+.where {
+    padding-left: 10px;
+}
+.period {
+    white-space: nowrap;
+    font-weight: 500;
+    font-size: 110%;
+}
+.duration {
+    white-space: nowrap;
+    font-style: italic;
+    color: #999;
+}
+.competences {
+    padding-top: 0;
+}

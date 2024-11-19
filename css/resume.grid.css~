@@ -1,0 +1,66 @@
+body {
+    margin: 40px 80px 80px 80px;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: #f8f8f8;
+    line-height: 130%;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 3fr
+}
+ul {
+    margin-top: 10px;
+}
+a {
+    text-decoration: none; 
+    color: #a40;
+}
+table { 
+    margin-top: 30px;
+}
+section {
+    font-size: 130%;
+    font-weight: bold;
+}
+.p-name {
+    font-size: 200%;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.job, .course {
+    padding-left: 10px;
+    border-left: 1px solid #040;
+}
+.course {
+    padding-left: 10px;
+    border-left: 1px solid #040;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+.employer {
+    /* font-weight: bold; */
+    /* font-size: 120%; */
+}
+.title {
+    font-weight: bold;
+}
+.where {
+    padding-left: 10px;
+}
+.period {
+    white-space: nowrap;
+}
+.duration {
+    white-space: nowrap;
+    font-style: italic;
+    color: #999;
+}
+img {
+    border-radius: 50%;
+}
+.debug {
+    background: #e8e8e8;
+    border: 1px solid red;
+}
